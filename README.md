@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcmontreal
-- 👀 I’m interested in ... Cryptocurrency 
-- 🌱 I’m currently learning ... Like to learn Crypto, Linux, programming and internet security, I been on the net for ever
-- 💞️ I’m looking to collaborate on ... Working in Montreal, Canada building an office for a team French, English, Spanish and Italian team for marketing.
+- 👀 I’m interested in ... Cryptocurrency digital assets
+- 🌱 I’m currently learning ... Crypto, Linux, programming and internet security, I been on the net for ever
+- 💞️ I’m looking to collaborate on ... Working in Montreal, Canada building an office for a team of crypto and marketing French, English, Spanish and Italian team.
 - 📫 How to reach me ... Pcmontreal@protonmail.com
 
 <!---
